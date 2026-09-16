@@ -10,7 +10,7 @@ A simple Java project built with Maven in IntelliJ IDEA.
 
 ## Screenshot
 
-![img.png](../../../../img.png)
+![img.png](../../../../Screenshot.png)
 
 ## Author
 
