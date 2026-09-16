@@ -6,7 +6,11 @@ A simple Java project built with Maven in IntelliJ IDEA.
 
 - Java
 - Maven
-- IntelliJ IDEA
+- IntelliJ IDEA 
+
+## Screenshot
+
+![img.png](img.png)
 
 ## Author
 
